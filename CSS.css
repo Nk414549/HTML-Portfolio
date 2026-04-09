@@ -1,0 +1,23 @@
+.navbar{
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.navbar a {
+  display: inline-block;
+  color: #ffffff;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+.navbar a:hover {
+  background-color: #356356;
+  color:#000;
+}
+body {
+  background-color: #F5E7DE;
+}

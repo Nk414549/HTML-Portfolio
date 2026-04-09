@@ -6,4 +6,4 @@ HTML and CSS.
 
 How to Run the website-
 Step 1:Download all files and put in the same folder.
-Step 2:Open the 
+Step 2:Open the file - website portfolio.html
